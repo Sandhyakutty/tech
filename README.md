@@ -15,7 +15,7 @@ Technologies Used:
  * CSS
  
 How to Run:
- * Clone the repository to your local machine.
+ * Clone the repository to your local machine it can be accesssed through the link[https://github.com/Sandhyakutty/tech.git].
  * Open the index.html file in a web browser.
    
  * This is a basic example and can be extended to include additional features, such as:
